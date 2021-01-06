@@ -28,6 +28,11 @@ public class Main {
         System.out.println("Long minimun value = " + myMinLongValue);
         System.out.println("Long maximum value = " + myMaxLongValue);
 
+         //Casting
+
+        int myTotal = ( myMinIntValue / 2);
+        byte myNewByteValue = (byte) (myMinByteValue / 2);
+        short myNewShortValue= (short) (myMinShortValue / 2);
     }
 }
 
