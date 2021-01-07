@@ -34,24 +34,23 @@ public class Main {
                         System.out.println("Name: " + currentProduct.getName());
                         System.out.println("ID: " + currentProduct.getProductId());
                         System.out.println("Price: " + currentProduct.getPrice());
-                        System.out.println("Quantity: " + currentProduct.getQuantity());
-                        System.out.println("\n");
+                        System.out.println("Quantity: " + currentProduct.getQuantity() + "\n");
                     }
                     break;
                 case 2:
                     System.out.println("Please provide the following info: ");
                     System.out.println("Name:");
+                    scan.nextLine();
                     String name = scan.nextLine();
                     System.out.println("ID:");
-                    String ID = scan.nextLine();
+                    int id = scan.nextInt();
                     System.out.println("Price:");
-                    String Price = scan.nextLine();
+                    int price = scan.nextInt();
                     System.out.println("Quantity:");
-                    String Quantity = scan.nextLine();
+                    int quantity = scan.nextInt();
 
-
-
-
+                    Product newProduct = new Product(price,id,name,quantity);
+                    productList.add(newProduct);
                     break;
                 case 0:
                 default:
