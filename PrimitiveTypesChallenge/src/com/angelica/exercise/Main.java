@@ -12,5 +12,7 @@ public class Main {
 
         short shortTotal = (short) (1000 + 10 *
                 (byteValue + shortValue + intValue));
+
+        
     }
 }
