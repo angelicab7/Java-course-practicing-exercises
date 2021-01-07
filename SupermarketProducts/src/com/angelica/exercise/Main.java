@@ -23,8 +23,7 @@ public class Main {
             System.out.println("Menu:");
             System.out.println("  1. Get inventory and selling prices");
             System.out.println("  2. Add new product");
-            System.out.println("  0" +
-                    ". Exit program");
+            System.out.println("  0" + ". Exit program");
             System.out.println("Choose one:");
             menuOption = scan.nextInt();
 
