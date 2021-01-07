@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27b0d0c1-f28e-4df3-b86b-b7d36264490c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BankAccountExercise/BankAccountExercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupermarketProducts/SupermarketProducts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupermarketProducts/src/com/angelica/exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SupermarketProducts/src/com/angelica/exercise/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mkuQpmpUxTyPbLup60Q4GFK3f5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27b0d0c1-f28e-4df3-b86b-b7d36264490c" name="Default Changelist" comment="" />
+      <created>1610049896695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610049896695</updated>
+    </task>
+    <servers />
+  </component>
+</project>
