@@ -38,5 +38,20 @@ public class Main {
         menuAdditions.add("Chorizo");
         menuAdditions.add("Ensalada cherry");
         restaurantMenus.add(new RestaurantMenu("Picada 3 carnes", 50000, menuAdditions));
+
+        menuAdditions = new ArrayList<>();
+        menuAdditions.add("Ensalada cherry");
+        menuAdditions.add("Pico de gallo");
+        menuAdditions.add("Agua de panela");
+        restaurantMenus.set(2, new RestaurantMenu("Vegan Burger", 23000, menuAdditions));
+
+        System.out.println("Bienvenidos a su restaurante " + restaurant.getName());
+
+        System.out.println("Cantidad de recetas: " + restaurantMenus.size());
+
+        for(int i = 0; i < restaurantMenus.size(); i ++){
+          RestaurantMenu currentMenu = restaurantMenus.get(i);
+          System.out.println(currentMenu.getRecipeName() + ": $" + currentMenu.getPrice());
+        }
     }
 }
