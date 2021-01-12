@@ -15,7 +15,7 @@ public class Animal {
         this.mostLikedFeature = mostLikedFeature;
     }
 
-    public String getName() {
+    public String getName( ) {
         return name;
     }
 
