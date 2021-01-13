@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27b0d0c1-f28e-4df3-b86b-b7d36264490c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BankAccountExercise/BankAccountExercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SupermarketProducts/SupermarketProducts.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SupermarketProducts/src/com/angelica/exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SupermarketProducts/src/com/angelica/exercise/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="27b0d0c1-f28e-4df3-b86b-b7d36264490c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
