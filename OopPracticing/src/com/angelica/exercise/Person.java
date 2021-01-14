@@ -1,8 +1,8 @@
 package com.angelica.exercise;
 
 public class Person {
-     private String name;  //Attribute
-     private String lastName;
+     public String name;  //Attribute
+     public String lastName;
 
    public void getInfo(){ //Method
        System.out.println("Name:" + name);
